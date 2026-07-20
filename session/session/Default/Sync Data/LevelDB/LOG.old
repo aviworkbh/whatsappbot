@@ -1,0 +1,4 @@
+2026/07/20-00:33:36.995 3978 Creating DB C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\Sync Data\LevelDB since it was missing.
+2026/07/20-00:33:37.034 3978 Reusing MANIFEST C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/20-00:33:37.035 3978 Recovering log #3
+2026/07/20-00:33:37.035 3978 Reusing old log C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\Sync Data\LevelDB/000003.log 

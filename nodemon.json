@@ -1,0 +1,7 @@
+{
+  "watch": ["index.js", "extractDate.js", "storage.js", "dailyCheck.js"],
+  "ext": "js,json",
+  "ignore": ["session/**", "data/**", "node_modules/**"],
+  "signal": "SIGINT",
+  "delay": "1000"
+}

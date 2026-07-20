@@ -1,0 +1,12 @@
+services:
+  whatsapp-date-bot:
+    build: .
+    container_name: whatsapp-date-bot
+    restart: unless-stopped
+    # לצפייה בקוד ה-QR בהרצה הראשונה:
+    # docker compose logs -f
+    volumes:
+      - ./session:/app/session   # שומר את החיבור לוואטסאפ - קריטי! בלי זה תצטרכו לסרוק QR מחדש בכל הפעלה
+      - ./data:/app/data          # שומר את רשימת ההודעות המתוזמנות
+    # tty מאפשר לראות את קוד ה-QR בצורה תקינה בטרמינל
+    tty: true

@@ -1,0 +1,4 @@
+2026/07/20-00:33:37.061 d9d4 Creating DB C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\shared_proto_db\metadata since it was missing.
+2026/07/20-00:33:37.074 d9d4 Reusing MANIFEST C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/07/20-00:33:37.074 d9d4 Recovering log #3
+2026/07/20-00:33:37.075 d9d4 Reusing old log C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\shared_proto_db\metadata/000003.log 
