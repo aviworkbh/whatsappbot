@@ -1,9 +1,0 @@
-2026/07/20-00:33:37.150 5778 Creating DB C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\Local Storage\leveldb since it was missing.
-2026/07/20-00:33:37.190 5778 Reusing MANIFEST C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/20-00:33:37.197 5778 Recovering log #6
-2026/07/20-00:33:37.202 5778 Reusing old log C:\Users\home\Desktop\work\whtsap-bot\whatsapp-date-bot\session\session\Default\Local Storage\leveldb/000006.log 
-2026/07/20-00:33:37.204 5778 Delete type=2 #3
-2026/07/20-00:33:37.204 5778 Delete type=2 #7
-2026/07/20-00:34:37.244 5778 Level-0 table #8: started
-2026/07/20-00:34:37.270 5778 Level-0 table #8: 19580 bytes OK
-2026/07/20-00:34:37.278 5778 Delete type=0 #6
